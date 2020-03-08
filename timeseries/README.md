@@ -1,1 +1,1 @@
-This project demonstrates how to easily leverage and integrate Apache Spark, Spark Streaming,  Apache Cassandra with the Spark Cassandra Connector and Apache Kafka in general, and more specifically for time series data. 
+
