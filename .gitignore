@@ -1,0 +1,10 @@
+**~
+**.iml
+*.log*
+out/**
+**/checkpoints*
+**/*.pyc
+**/.idea/**
+**/target/**
+**/.DS_Store
+**/META-INF/**
