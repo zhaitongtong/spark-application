@@ -15,7 +15,7 @@
         <dependency> <!-- Spark -->
             <groupId>org.apache.spark</groupId>
             <artifactId>spark-core_2.10</artifactId>
-            <version>1.4.0</version>
+            <version>2.2.2</version>
         </dependency>
         <dependency> <!-- Spark SQL -->
             <groupId>org.apache.spark</groupId>
