@@ -13,3 +13,4 @@ Application:
   - Train a model by applying the k-means algorithm using Spark MLLib 
   - Filter a live stream of Tweets for those that match the specified cluster
 3. Weather TimeSeries
+  - Get weather data for a given weather station at a given point in time using Spark Streaming, Apache Cassandra and Apache Kafka
